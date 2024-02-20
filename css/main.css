@@ -84,7 +84,7 @@ aside + h4 {
 
 /* General Sibling Selector (~) - Used to select an element that is after another specific element and is a sibling. HAS to be after! */
 aside ~ h3 {
-    background-color: orange;
+    background-color: crimson;
 }
 
 
